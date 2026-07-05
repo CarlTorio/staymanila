@@ -8,7 +8,7 @@ const SITE_SETTINGS: Record<string, string> = {
     "A cozy corner where authentic Asian flavors come alive. Every dish is crafted with love, tradition, and the finest ingredients sourced from across the region.",
   address: "123 Food Street, Brgy. Sample, Calamba, Laguna",
   phone: "+63 912 345 6789",
-  email: "hello@staymaniladiner.com",
+  email: "staymanilahostel@gmail.com",
   hours_weekday: "Monday – Friday: 10:00 AM – 10:00 PM",
   hours_weekend: "Saturday – Sunday: 9:00 AM – 11:00 PM",
   facebook_url: "https://facebook.com",
