@@ -3,7 +3,7 @@
 -- Run this ONCE in: Supabase Dashboard -> SQL Editor -> New query -> paste -> Run.
 -- Safe to re-run (uses IF NOT EXISTS / DROP POLICY IF EXISTS).
 -- Security model: PUBLIC can READ everything; only AUTHENTICATED (logged-in
--- admin via Supabase Auth) can INSERT / UPDATE / DELETE.
+-- admin via Supabase Auth) can INSERT / UPDATE / DELETE. 
 -- =====================================================================
 
 -- ---------- TABLES ----------
